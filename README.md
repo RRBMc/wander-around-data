@@ -1,2 +1,2 @@
 # wander-around-data
-For all things visual representation
+For all things data related...
